@@ -1,0 +1,232 @@
+{
+    "data" : [
+      {
+        "name" : "",
+        "turns" : [
+          {
+            "user" : "hello",
+            "entities" : [
+              {
+                "entity" : "intent",
+                "value" : "\"Greeting\""
+              }
+            ],
+            "operations" : [
+              {
+                "action" : "template-Hello! Happy to see you here!!"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name" : "",
+        "turns" : [
+          {
+            "user" : "hi",
+            "entities" : [
+              {
+                "entity" : "intent",
+                "value" : "\"Greeting\""
+              }
+            ],
+            "operations" : [
+              {
+                "action" : "template-Hello! Happy to see you here!!"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name" : "",
+        "turns" : [
+          {
+            "user" : "how are you",
+            "entities" : [
+              {
+                "entity" : "intent",
+                "value" : "\"Random\""
+              }
+            ],
+            "operations" : [
+              {
+                "action" : "template-I am just as good as the beautiful day outside!!"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name" : "",
+        "turns" : [
+          {
+            "user" : "how're you",
+            "entities" : [
+              {
+                "entity" : "intent",
+                "value" : "\"Random\""
+              }
+            ],
+            "operations" : [
+              {
+                "action" : "template-I am just as good as the beautiful day outside!!"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name" : "",
+        "turns" : [
+          {
+            "user" : "wassup",
+            "entities" : [
+              {
+                "entity" : "intent",
+                "value" : "\"Random\""
+              }
+            ],
+            "operations" : [
+              {
+                "action" : "template-I am just as good as the beautiful day outside!!"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name" : "",
+        "turns" : [
+          {
+            "user" : "hw r u",
+            "entities" : [
+              {
+                "entity" : "intent",
+                "value" : "\"Random\""
+              }
+            ],
+            "operations" : [
+              {
+                "action" : "template-I am just as good as the beautiful day outside!!"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name" : "",
+        "turns" : [
+          {
+            "user" : "Tell me something about you",
+            "entities" : [
+              {
+                "entity" : "intent",
+                "value" : "\"Information of self\""
+              }
+            ],
+            "operations" : [
+              {
+                "action" : "template-I am Vaibhav, an AI enthusiast! You'll love to check out my various profiles on different networks!! :)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name" : "",
+        "turns" : [
+          {
+            "user" : "Who're you?",
+            "entities" : [
+              {
+                "entity" : "intent",
+                "value" : "\"Information of self\""
+              }
+            ],
+            "operations" : [
+              {
+                "action" : "template-I am Vaibhav, an AI enthusiast! You'll love to check out my various profiles on different networks!! :)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name" : "",
+        "turns" : [
+          {
+            "user" : "facebook",
+            "entities" : [
+              {
+                "entity" : "intent",
+                "value" : "\"Facebook Profile Link\""
+              }
+            ],
+            "operations" : [
+              {
+                "action" : "template-https://www.facebook.com/VaibhavAgarwalVA"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name" : "",
+        "turns" : [
+          {
+            "user" : "github",
+            "entities" : [
+              {
+                "entity" : "intent",
+                "value" : "\"Github Profile Link\""
+              }
+            ],
+            "operations" : [
+              {
+                "action" : "template-https://github.com/VaibhavAgarwalVA"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name" : "",
+        "turns" : [
+          {
+            "user" : "linkedin",
+            "entities" : [
+              {
+                "entity" : "intent",
+                "value" : "\"Linkedin profile\""
+              }
+            ],
+            "operations" : [
+              {
+                "action" : "template-https://www.linkedin.com/in/vaibhavagarwalva"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name" : "",
+        "turns" : [
+          {
+            "user" : "Nice talking to you!",
+            "entities" : [
+              {
+                "entity" : "intent",
+                "value" : "\"End Conversation\""
+              }
+            ],
+            "operations" : [
+              {
+                "action" : "template-It was my pleasure to talk to you!! Write back to me on my email - vaiagarwal96@gmail.com. Have a nice day! :)"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
