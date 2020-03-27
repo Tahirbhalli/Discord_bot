@@ -1,6 +1,6 @@
 # slack_bot
 
-This a Discord Chat Bot built in ruby.Where you can talk to the bot with somelimits. like bot only understand the story.json.
+This is a Discord Chat Bot built in ruby. Where you can talk to the bot with some limits. like bot only understands the story.json.
 
 ## Built With
 
@@ -12,6 +12,10 @@ This a Discord Chat Bot built in ruby.Where you can talk to the bot with somelim
   - $ bundle
 - in .env file enter you access token.
 - $ ruby main/main.rb
+
+## How to run the bot Tests
+- $ rspec spec/testing_bot.rb
+
 ## Commands to interact with Bot
 
 - hello
