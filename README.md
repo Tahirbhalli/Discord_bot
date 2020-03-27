@@ -7,6 +7,11 @@ This a Discord Chat Bot built in ruby.Where you can talk to the bot with somelim
 - Ruby
 - Discordrb
 
+## How to run the bot
+- install gem file
+  - $ bundle
+- in .env file enter you access token.
+- $ ruby main/main.rb
 ## Commands to interact with Bot
 
 - hello

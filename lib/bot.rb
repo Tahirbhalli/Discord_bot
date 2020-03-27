@@ -1,7 +1,7 @@
 require 'discordrb'
 require 'dotenv'
 require_relative 'json_parser.rb'
-class Bots
+class Bot
   private
 
   @bot = nil
